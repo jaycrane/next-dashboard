@@ -1,2 +1,5 @@
 # dotenv environment variables file
 .env
+node_modules/@next/.DS_Store
+node_modules/@next/swc-darwin-arm64/.DS_Store
+node_modules/@next/.DS_Store
